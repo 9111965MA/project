@@ -12,3 +12,9 @@ Faced some challenges in Jenkin piplines
 Ran successfully on port 8081 - see video
 created two virtual machines swarm manager and swarm worker
 In the process of linking both machines
+
+
+
+
+The link for videos:
+https://drive.google.com/drive/folders/1LJDvoJ121rtE0F6dcpoHa31T0GaJlx1i?usp=sharing
